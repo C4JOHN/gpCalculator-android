@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gp App</string>
+    <string name="firstPage">Select Your Department and Level</string>
+    <string name="toGpFragment">Calculate Grade Point</string>
+    <string name="calcGp">Calculate GP</string>
+    <string name="firstSem">First Semester</string>
+    <string name="secSem">Second Semester</string>
+    <string name="course">Course</string>
+    <string name="credits">Credits</string>
+    <string name="grade">Grades</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
